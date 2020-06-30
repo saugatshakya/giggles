@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1013836945574-d7brs651v1k1of90vrmjq19sgu1cau3t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1013836945574-d7brs651v1k1of90vrmjq19sgu1cau3t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1013836945574-8j5kht08envo0mng41mo9l0a2gnrjbh3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIyHrceCcVlDphrW_kpzyJvahJQJ46vsM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1013836945574</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.Giggles</string>
+	<key>PROJECT_ID</key>
+	<string>giggles-b3609</string>
+	<key>STORAGE_BUCKET</key>
+	<string>giggles-b3609.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1013836945574:ios:ffcb242fd0fbcf43ee3c67</string>
+	<key>DATABASE_URL</key>
+	<string>https://giggles-b3609.firebaseio.com</string>
+</dict>
+</plist>
